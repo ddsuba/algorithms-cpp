@@ -1,3 +1,5 @@
+//closest pair of points
+
 int N;
 pair<pll, int> arr[MAXN];
 pii ans;

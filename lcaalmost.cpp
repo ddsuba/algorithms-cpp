@@ -1,3 +1,5 @@
+//for a vertical path in a tree u --> v, finds the second node on the path from u to v.
+
 int N, T;
 vi edge[MAXN];
 int parent[MAXN], st[MAXN], depth[MAXN];

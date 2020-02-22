@@ -1,3 +1,5 @@
+//implements the aliens trick from IOI 2016
+
 check(0);
 ckmin(M, taken[N + 1]);
 ll lo = 0, hi = INF;

@@ -1,3 +1,5 @@
+//implements the boyer moore majority algorithm
+
 	vi bucket, lis;
 	FOR(i, 0, N)
 	{

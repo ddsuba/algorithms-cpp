@@ -1,3 +1,5 @@
+//minimum enclosing circle for a set of points
+
 typedef pair<ld, ld> pdd;
 
 ld dist(pdd &a, pdd &b)
